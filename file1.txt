@@ -1,5 +1,5 @@
 Hello world!
 12345
 Good bye!
-Good day!
+Line from user2
 Line from user1
